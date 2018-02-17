@@ -37,6 +37,8 @@ function displayWord() {
 
 	document.querySelector('#underscores').innerHTML=displayWord()
 
+	//added this comment
+
 //Users Guess
 document.addEventListener('keypress', (event) => {
 
