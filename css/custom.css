@@ -1,0 +1,38 @@
+h1 {
+	color: #fff;
+	margin-bottom: 72px;
+	border-radius: 21px;
+	background: #2ec16cd4;
+
+}
+
+.display-3 {
+	font-size: 3rem;
+}
+
+.btn-success {
+	background-color: #2ec16c;
+}
+
+.modalh1 {
+	margin-top: 20px;
+}
+
+.correctGuess, .wrongGuess {
+	border: 1px solid black;
+	height: 10%;
+	margin-bottom: 20px;
+	padding-bottom: 40px;
+}
+
+/*.wrongGuess {
+	border: 1px solid black;
+	height: 10%;
+	margin-bottom: 20px;
+	padding-bottom: 40px;
+}
+*/
+.underscores {
+	font-size: 40px;
+	letter-spacing: 14px;
+}
