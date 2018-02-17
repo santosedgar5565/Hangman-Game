@@ -6,6 +6,14 @@ h1 {
 
 }
 
+h2 {
+	color: #fff;
+	margin-bottom: 72px;
+	border-radius: 21px;
+	background: #2ec16cd4;
+
+}
+
 .display-3 {
 	font-size: 3rem;
 }
